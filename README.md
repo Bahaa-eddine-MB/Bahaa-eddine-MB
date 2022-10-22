@@ -1,4 +1,4 @@
-![MasterHead](https://raw.githubusercontent.com/Bahaa-eddine-MB/Bahaa-eddine-MB/main/code2.gif)
+<h3 align="center">![MasterHead](https://raw.githubusercontent.com/Bahaa-eddine-MB/Bahaa-eddine-MB/main/code2.gif)</h3>
 <h1 align="center">Hi 👋, I'm Bahaa Eddine MB</h1>
 <h3 align="center">A mobile application developer (flutter) and a web developer</h3>
 
