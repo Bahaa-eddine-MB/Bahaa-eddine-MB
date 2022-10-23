@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **bm.bouzeboudja@esi-sba.dz**
 
-- 📄 School [ESI-SBA (higher school of computer science)](ESI-SBA (higher school of computer science))
+- 📄 School [https://www.esi-sba.dz/](ESI-SBA (higher school of computer science))
 
 - ⚡ Fun fact **Patrick Bateman**
 
