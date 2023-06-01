@@ -12,7 +12,7 @@
 
 - 📄 Education **ESI-SBA (higher school of computer science)**
 
-- ⚡ Fun fact **Patrick Bateman** is literally me me
+- ⚡ Fun fact **Patrick Bateman** is literally me
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
