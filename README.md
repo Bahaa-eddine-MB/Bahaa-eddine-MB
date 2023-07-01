@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/Bahaa-eddine-MB/Bahaa-eddine-MB/blob/main/code%20gif.gif" /></p>
+<p align="center"><img src="https://github.com/Bahaa-eddine-MB/Bahaa-eddine-MB/blob/main/code2.gif" /></p>
 
 <h1 align="center">Hi 👋, I'm Bahaa Eddine MB</h1>
 
