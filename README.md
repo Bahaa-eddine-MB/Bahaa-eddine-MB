@@ -1,8 +1,8 @@
 ![MasterHead](https://raw.githubusercontent.com/Bahaa-eddine-MB/Bahaa-eddine-MB/main/code2.gif)
 <h1 align="center">Hi 👋, I'm Bahaa Eddine MB</h1>
-<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&width=435&lines=Front-end++developer;Back-end++developer;Mobile++developer" alt="Typing SVG" /></a></h3>
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&vCenter=true&width=435&lines=Front-end++developer;Back-end++developer;Mobile++developer" alt="Typing SVG" /></a></p>
 
-<div align="center"> <img src="https://komarev.com/ghpvc/?username=bahaa-eddine-mb&label=Profile%20views&color=0e75b6&style=flat" alt="bahaa-eddine-mb" /> </p>
+<div align="center"> <img src="https://komarev.com/ghpvc/?username=bahaa-eddine-mb&label=Profile%20views&color=0e75b6&style=flat" alt="bahaa-eddine-mb" /> </div>
 
 - 🌱 I’m currently learning **NextJs,SQL**
 
