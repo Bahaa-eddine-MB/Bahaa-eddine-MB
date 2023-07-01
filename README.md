@@ -1,4 +1,4 @@
-<p align="center"> ![MasterHead](https://raw.githubusercontent.com/Bahaa-eddine-MB/Bahaa-eddine-MB/main/code2.gif) </p>
+<p align="center"><img src="https://raw.githubusercontent.com/Bahaa-eddine-MB/Bahaa-eddine-MB/main/code2.gif" /></p>
 
 <h1 align="center">Hi 👋, I'm Bahaa Eddine MB</h1>
 <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&vCenter=true&width=435&lines=Front-end++developer;Back-end++developer;Mobile++developer" alt="Typing SVG" /></a></p>
