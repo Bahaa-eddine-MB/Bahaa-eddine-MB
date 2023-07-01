@@ -1,4 +1,4 @@
-<p align="center"><img src="https://raw.githubusercontent.com/Bahaa-eddine-MB/Bahaa-eddine-MB/main/code2.gif" /></p>
+<p align="center"><img src="https://www.quora.com/Is-e-learning-effective-for-programming" /></p>
 
 <h1 align="center">Hi 👋, I'm Bahaa Eddine MB</h1>
 
