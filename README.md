@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Bahaa Eddine MB</h1>
 <h3 align="center">A mobile application developer (flutter) and a web developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bahaa-eddine-mb&label=Profile%20views&color=0e75b6&style=flat" alt="bahaa-eddine-mb" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=bahaa-eddine-mb&label=Profile%20views&color=0e75b6&style=flat" alt="bahaa-eddine-mb" /> </p>
 
 - 🌱 I’m currently learning **NextJs,SQL**
 
