@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bahaa-eddine-mb&label=Profile%20views&color=0e75b6&style=flat" alt="bahaa-eddine-mb" /> </p>
 
-- 🌱 I’m currently learning **NextJs,SQL**
+- 🌱 I’m currently learning **ReactNative,SQL**
 
 - 💬 Ask me about **dart,flutter,web front-end**
 
