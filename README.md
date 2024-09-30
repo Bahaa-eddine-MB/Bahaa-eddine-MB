@@ -1,4 +1,4 @@
-<p align="center"><img height="300px" src="https://github.com/Bahaa-eddine-MB/Bahaa-eddine-MB/blob/main/6e3641df4d4ff70e70554064ff9739a3.gif" style="object-fit: cover; width: 100%; height: 100%;"/></p>
+<p align="center"><img height="300px" src="https://github.com/Bahaa-eddine-MB/Bahaa-eddine-MB/blob/main/6e3641df4d4ff70e70554064ff9739a3.gif" style="object-fit: cover; width: 60%; height: 100%;"/></p>
 <h1 align="center">Hi 👋, I'm Bahaa Eddine MB</h1>
 <p align="center"><a href="https://git.io/typing-svg"><img  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&width=435&lines=Front-end++developer;Back-end++developer;Mobile++developer" alt="Typing SVG" /></a></p>
 
