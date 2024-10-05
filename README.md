@@ -5,7 +5,7 @@
 # 💫 About Me:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bahaa-eddine-mb&label=Profile%20views&color=0e75b6&style=flat" alt="bahaa-eddine-mb" /> </p>
 
-🔭 I’m currently working on a large scale Flutter project  <br> <br>🌱 I’m currently learning ***NestJs and Kubernetes***  <br>  <br>❓ Ask me about anything related to ***Web dev or Flutter***  <br>  <br>⚡ Fun fact: Patrick Bateman is latterly me  
+🔭 I’m currently working on a large scale Flutter project  <br> <br>🌱 I’m currently looking for ***PFE internship***  <br>  <br>❓ Ask me about anything related to ***Web dev or Flutter***  <br>  <br>⚡ Fun fact: Patrick Bateman is latterly me  
 <br>
 📫 Reach me via bm.bouzeboudja@esi-sba.dz.
 <br>
